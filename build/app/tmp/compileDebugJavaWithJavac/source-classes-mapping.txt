@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/graphql_tut/MainActivity.java
+ com.example.graphql_tut.MainActivity
+com/example/graphql_tut/BuildConfig.java
+ com.example.graphql_tut.BuildConfig
